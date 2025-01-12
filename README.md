@@ -47,3 +47,6 @@
     English :
         EPSON RC+7.0 User's Guide PDF  /  Page 373
 
+- **異常代碼 / Error code**：
+
+    ![Example Image](images/p2.png)
