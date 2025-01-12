@@ -46,7 +46,8 @@
 
     English :
         EPSON RC+7.0 User's Guide PDF  /  Page 373
-
+    <br>
+    <br>
 
 - **異常代碼 / Error code**：
 
