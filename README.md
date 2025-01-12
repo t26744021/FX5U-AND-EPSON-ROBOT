@@ -13,7 +13,7 @@
     TCP / IP 
 
 - **環境 / Environment**：
-    ![Example Image](../images/p1.png)
+    ![Example Image](images/p1.png)
 
 
 - **PLC 命令 / PLC Commands**：
